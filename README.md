@@ -54,6 +54,7 @@ Here is how you can run the project locally:
     ```
 1. Test the code with Dusk
     ```sh
+      php artisan dusk:install
       php artisan dusk
     ```
 

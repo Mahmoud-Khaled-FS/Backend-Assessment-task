@@ -19,6 +19,7 @@ Here is how you can run the project locally:
 1. Create the database
 1. Go to `.env` file
     - set database credentials (`DB_DATABASE`, `DB_USERNAME=root`, `DB_PASSWORD=`)
+    - Change `APP_URL` to `APP_URL=http://localhost:8000`
         > Make sure to follow your database username and password
 1. Install dependencies
     ```sh

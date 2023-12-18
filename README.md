@@ -56,4 +56,4 @@ Here is how you can run the project locally:
       php artisan dusk
     ```
 
-![video](https://github.com/Mahmoud-Khaled-FS/Backend-Assessment-task/screenshots/task.mp4)
+![video](https://github.com/Mahmoud-Khaled-FS/Backend-Assessment-task/blob/main/screenshots/task.mp4)
